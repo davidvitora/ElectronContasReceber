@@ -1,0 +1,7 @@
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.treeview-menu li{
+    cursor: pointer !important;
+}
